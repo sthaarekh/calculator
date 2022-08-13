@@ -58,9 +58,8 @@ body {
     max-width: 300px;
     border-style: groove;
     border-color: #f189cb;
-    margin-bottom: 10px;
     display: flex;
-    align-items: flex-end;
+    align-items: center;
     justify-content: flex-end;
     font-family: calci;
     font-size: 27px;
@@ -158,7 +157,7 @@ button:hover {
 }
 
 .calculator button.btn-number {
-    background-color: #fd5050;
+    background-color: #d47070;
     color: #fff;
 }
 
@@ -168,7 +167,7 @@ button:hover {
   }
   
   .calculator button.btn-equal {
-    background-color: #7ee919;
+    background-color: #7ad327;
     color: #000;
   }
 
